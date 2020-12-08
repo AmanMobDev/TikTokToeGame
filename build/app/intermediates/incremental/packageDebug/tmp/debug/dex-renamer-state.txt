@@ -1,0 +1,4 @@
+#Thu May 07 14:00:27 IST 2020
+base.0=C\:\\Users\\migde\\Desktop\\FlutterExampel\\tiktoktoe\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
